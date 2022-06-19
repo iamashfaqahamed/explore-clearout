@@ -2,11 +2,11 @@
 This will help you to explore about **Clearout** 
 
 ## Installation
-`npm i hello-world-clearout`
+`npm i explore-clearout`
 
 ## After Installation
 Insert this code in your JS file
-`require('hello-world-clearout');`
+`require('explore-clearout');`
 
 ## To Run Package
 In your Terminal just type
